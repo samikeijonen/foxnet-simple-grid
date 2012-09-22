@@ -1,0 +1,12 @@
+body {
+	font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+	margin-bottom: 20px;
+}
+	
+.container p {
+	color: #fff;
+	line-height: 100px;
+	background: #1189b7;
+	text-align: center;
+	margin: 20px 0 0 0;
+}
