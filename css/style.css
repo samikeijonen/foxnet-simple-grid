@@ -1,4 +1,5 @@
 body {
+	background: #fffffe;
 	font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
 	margin-bottom: 20px;
 }
@@ -6,7 +7,7 @@ body {
 .container p {
 	color: #fff;
 	line-height: 100px;
-	background: #1189b7;
+	background: #99c03b;
 	text-align: center;
 	margin: 20px 0 0 0;
 }
